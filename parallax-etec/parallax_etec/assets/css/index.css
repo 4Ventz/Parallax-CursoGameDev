@@ -1,0 +1,86 @@
+/*Navbar*/
+.navbar-brand {
+    color: #FFD100;
+}
+
+
+/*Body*/
+body {
+    background-image: linear-gradient(to right, #202020 40%, #FFD100 90%);
+}
+
+/*Carousel*/
+.carousel-caption {
+    background-color: #20202080;
+    border-radius: 20px;
+}
+
+
+
+/*Texto de apresentação*/
+h4 {
+    color: ghostwhite;
+}
+
+/*formulário*/
+.novidades {
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    background-color: #202020;
+    color: ghostwhite;
+}
+
+.card-body .novidades {
+    color: ghostwhite;
+}
+
+.btn {
+    background-color: #202020;
+    color: #FFD100;
+    border-color: #FFD100;
+}
+
+.btn:hover {
+    background-color: #202020;
+    color: ghostwhite;
+    border-color: ghostwhite;
+}
+
+
+
+/*Destaque*/
+.destaqueCard {
+    background-color: #FFD100;
+}
+
+.destaqueTitulo {
+    color: ghostwhite;
+}
+
+.destaqueDiv {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+}
+
+.card-body {
+    background-color: #202020;
+}
+
+.card-img-top {
+    background-color:#202020; 
+
+    padding: 10px
+}
+
+.card-title {
+    color: ghostwhite;
+}
+
+.card-text {
+    color: ghostwhite;
+}
+
+
+/*footer*/
